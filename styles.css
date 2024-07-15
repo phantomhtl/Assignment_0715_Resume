@@ -1,0 +1,35 @@
+
+#section1{
+  margin: 40px;
+}
+#section2{
+  margin: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+.upperbox{
+  display: flex;
+  justify-content: space-between;
+}
+
+#photo1{
+  width: 208px;
+  height: 170px;
+  border-radius: 50%;
+}
+
+.leftColumn{
+  width: 65%;
+}
+.rightColumn{
+  width: 30%;
+}
+ul{
+  padding-left: 20px;
+}
+
+.svg{
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+}
